@@ -12,3 +12,4 @@ for i in range(0,ln):
   if (e%5==0):
     sum = sum + e
 print(sum)
+#updated
